@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/fe3dback/go-arch-lint/internal/models"
-	"github.com/fe3dback/go-arch-lint/internal/operations/graph"
+	"github.com/LazarenkoA/go-arch-lint/internal/models"
+	"github.com/LazarenkoA/go-arch-lint/internal/operations/graph"
 	"github.com/spf13/cobra"
 )
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"runtime/debug"
 
-	"github.com/fe3dback/go-arch-lint/internal/models"
+	"github.com/LazarenkoA/go-arch-lint/internal/models"
 )
 
 type Operation struct {

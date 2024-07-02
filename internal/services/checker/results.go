@@ -3,7 +3,7 @@ package checker
 import (
 	"sort"
 
-	"github.com/fe3dback/go-arch-lint/internal/models"
+	"github.com/LazarenkoA/go-arch-lint/internal/models"
 )
 
 type (

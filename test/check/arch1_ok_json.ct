@@ -8,7 +8,7 @@ $ go-arch-lint check --project-path ${PWD}/test/check/project --arch-file arch1_
     "ArchWarningsNotMatched": [],
     "ArchWarningsDeepScan": [],
     "OmittedCount": 0,
-    "ModuleName": "github.com/fe3dback/go-arch-lint/test/check/project",
+    "ModuleName": "github.com/LazarenkoA/go-arch-lint/test/check/project",
     "Qualities": [
       {
         "ID": "component_imports",

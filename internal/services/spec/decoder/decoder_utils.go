@@ -1,6 +1,6 @@
 package decoder
 
-import "github.com/fe3dback/go-arch-lint/internal/models/common"
+import "github.com/LazarenkoA/go-arch-lint/internal/models/common"
 
 func castRef[T any](r ref[T]) common.Referable[T] {
 	return r.ref

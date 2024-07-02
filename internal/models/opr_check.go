@@ -1,6 +1,6 @@
 package models
 
-import "github.com/fe3dback/go-arch-lint/internal/models/common"
+import "github.com/LazarenkoA/go-arch-lint/internal/models/common"
 
 type (
 	CmdCheckIn struct {

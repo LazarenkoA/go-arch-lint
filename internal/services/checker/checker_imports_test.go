@@ -5,15 +5,15 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/fe3dback/go-arch-lint/internal/models/arch"
-	"github.com/fe3dback/go-arch-lint/internal/models/common"
+	"github.com/LazarenkoA/go-arch-lint/internal/models/arch"
+	"github.com/LazarenkoA/go-arch-lint/internal/models/common"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/fe3dback/go-arch-lint/internal/models"
+	"github.com/LazarenkoA/go-arch-lint/internal/models"
 )
 
 const (
-	testModulePath = "github.com/fe3dback/go-arch-lint/checker/test"
+	testModulePath = "github.com/LazarenkoA/go-arch-lint/checker/test"
 )
 
 func makeTestProjectRoot() string {

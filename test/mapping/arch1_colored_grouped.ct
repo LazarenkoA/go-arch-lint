@@ -1,5 +1,5 @@
 $ go-arch-lint ls -s grouped --project-path ${PWD}/test/check/project --arch-file arch1_ok.yml
-module: [32mgithub.com/fe3dback/go-arch-lint/test/check/project[0m
+module: [32mgithub.com/LazarenkoA/go-arch-lint/test/check/project[0m
 Project Packages:
    a:
      [36m/internal/a[0m

@@ -1,5 +1,5 @@
 $ go-arch-lint mapping --scheme grouped --project-path ${PWD}/test/check/project --arch-file arch1_warnings.yml --output-color=false
-module: github.com/fe3dback/go-arch-lint/test/check/project
+module: github.com/LazarenkoA/go-arch-lint/test/check/project
 Project Packages:
    [not attached]:
      /internal/c/not_covered

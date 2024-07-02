@@ -9,7 +9,7 @@ $ go-arch-lint check --json --project-path ${PWD}/test/check/project --arch-file
         "ComponentName": "c",
         "FileRelativePath": "/internal/c/c1.go",
         "FileAbsolutePath": "${ROOTDIR}/test/check/project/internal/c/c1.go",
-        "ResolvedImportName": "github.com/fe3dback/go-arch-lint/test/check/project/internal/a",
+        "ResolvedImportName": "github.com/LazarenkoA/go-arch-lint/test/check/project/internal/a",
         "Reference": {
           "Valid": true,
           "File": "${ROOTDIR}/test/check/project/internal/c/c1.go",
@@ -34,7 +34,7 @@ $ go-arch-lint check --json --project-path ${PWD}/test/check/project --arch-file
     ],
     "ArchWarningsDeepScan": [],
     "OmittedCount": 0,
-    "ModuleName": "github.com/fe3dback/go-arch-lint/test/check/project",
+    "ModuleName": "github.com/LazarenkoA/go-arch-lint/test/check/project",
     "Qualities": [
       {
         "ID": "component_imports",

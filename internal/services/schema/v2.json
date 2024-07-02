@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "id": "https://github.com/fe3dback/go-arch-lint/v2",
+  "id": "https://github.com/LazarenkoA/go-arch-lint/v2",
   "title": "Go Arch Lint V2",
   "type": "object",
   "description": "Arch file scheme version 2",

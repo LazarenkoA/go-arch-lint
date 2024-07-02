@@ -26,7 +26,7 @@ two modes available:
 ```bash
 go-arch-lint mapping
 
-module: github.com/fe3dback/go-arch-lint
+module: github.com/LazarenkoA/go-arch-lint
 Project Packages:
    app                 /internal/app
    container           /internal/app/internal/container
@@ -38,7 +38,7 @@ Project Packages:
 ```bash
 go-arch-lint mapping --scheme grouped
 
-module: github.com/fe3dback/go-arch-lint
+module: github.com/LazarenkoA/go-arch-lint
 Project Packages:
    app:
      /internal/app

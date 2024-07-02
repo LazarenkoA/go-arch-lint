@@ -1,7 +1,7 @@
 package deepscan
 
 import (
-	"github.com/fe3dback/go-arch-lint/internal/models/common"
+	"github.com/LazarenkoA/go-arch-lint/internal/models/common"
 )
 
 type (

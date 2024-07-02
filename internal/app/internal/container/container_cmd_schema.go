@@ -3,8 +3,8 @@ package container
 import (
 	"fmt"
 
-	"github.com/fe3dback/go-arch-lint/internal/models"
-	"github.com/fe3dback/go-arch-lint/internal/operations/schema"
+	"github.com/LazarenkoA/go-arch-lint/internal/models"
+	"github.com/LazarenkoA/go-arch-lint/internal/operations/schema"
 	"github.com/spf13/cobra"
 )
 

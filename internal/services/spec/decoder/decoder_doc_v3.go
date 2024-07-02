@@ -1,9 +1,9 @@
 package decoder
 
 import (
-	"github.com/fe3dback/go-arch-lint/internal/models"
-	"github.com/fe3dback/go-arch-lint/internal/models/common"
-	"github.com/fe3dback/go-arch-lint/internal/services/spec"
+	"github.com/LazarenkoA/go-arch-lint/internal/models"
+	"github.com/LazarenkoA/go-arch-lint/internal/models/common"
+	"github.com/LazarenkoA/go-arch-lint/internal/services/spec"
 )
 
 type (

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"path"
 
-	"github.com/fe3dback/go-arch-lint/internal/models/arch"
-	"github.com/fe3dback/go-arch-lint/internal/services/spec"
+	"github.com/LazarenkoA/go-arch-lint/internal/models/arch"
+	"github.com/LazarenkoA/go-arch-lint/internal/services/spec"
 )
 
 type excludeAssembler struct {

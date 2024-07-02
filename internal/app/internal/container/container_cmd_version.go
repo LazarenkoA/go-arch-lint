@@ -1,7 +1,7 @@
 package container
 
 import (
-	"github.com/fe3dback/go-arch-lint/internal/operations/version"
+	"github.com/LazarenkoA/go-arch-lint/internal/operations/version"
 	"github.com/spf13/cobra"
 )
 

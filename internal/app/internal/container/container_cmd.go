@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/fe3dback/go-arch-lint/internal/models"
+	"github.com/LazarenkoA/go-arch-lint/internal/models"
 	"github.com/spf13/cobra"
 )
 
@@ -21,7 +21,7 @@ func (c *Container) CommandRoot() *cobra.Command {
 	rootCmd := &cobra.Command{
 		Use:           "go-arch-lint",
 		Short:         "Golang architecture linter",
-		Long:          "Check all project imports and compare to arch rules defined in yaml file.\nRead full documentation in: https://github.com/fe3dback/go-arch-lint",
+		Long:          "Check all project imports and compare to arch rules defined in yaml file.\nRead full documentation in: https://github.com/LazarenkoA/go-arch-lint",
 		SilenceErrors: true, // redirect to stderr
 		SilenceUsage:  true,
 		RunE: func(act *cobra.Command, _ []string) error {

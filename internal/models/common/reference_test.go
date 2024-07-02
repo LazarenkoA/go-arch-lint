@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/fe3dback/go-arch-lint/internal/models/common"
+	"github.com/LazarenkoA/go-arch-lint/internal/models/common"
 )
 
 func TestReference_ClampWithRealLinesCount(t *testing.T) {

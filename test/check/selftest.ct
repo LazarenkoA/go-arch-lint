@@ -1,5 +1,5 @@
 $ go-arch-lint check --project-path ${PWD} --output-color=false
-module: github.com/fe3dback/go-arch-lint
+module: github.com/LazarenkoA/go-arch-lint
 linters:
    On | Base: component imports # always on
    On | Advanced: vendor imports # switch 'allow.depOnAnyVendor = false' (or delete) to on

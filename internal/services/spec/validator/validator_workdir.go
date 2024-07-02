@@ -5,8 +5,8 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/fe3dback/go-arch-lint/internal/models/arch"
-	"github.com/fe3dback/go-arch-lint/internal/services/spec"
+	"github.com/LazarenkoA/go-arch-lint/internal/models/arch"
+	"github.com/LazarenkoA/go-arch-lint/internal/services/spec"
 )
 
 type validatorWorkDir struct {

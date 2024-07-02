@@ -1,7 +1,7 @@
 package assembler
 
 import (
-	"github.com/fe3dback/go-arch-lint/internal/models/common"
+	"github.com/LazarenkoA/go-arch-lint/internal/models/common"
 )
 
 func wrap[T any](ref common.Reference, list []T) []common.Referable[T] {

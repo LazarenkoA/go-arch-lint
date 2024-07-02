@@ -11,8 +11,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/fe3dback/go-arch-lint/internal/models"
-	astUtil "github.com/fe3dback/go-arch-lint/internal/services/common/ast"
+	"github.com/LazarenkoA/go-arch-lint/internal/models"
+	astUtil "github.com/LazarenkoA/go-arch-lint/internal/services/common/ast"
 	"golang.org/x/tools/go/packages"
 )
 
@@ -39,7 +39,7 @@ func NewScanner() *Scanner {
 
 	stdPackages, err := packages.Load(nil, "std")
 	if err != nil {
-		panic(fmt.Errorf("failed load std packages"))
+		panic(fmt.Errorf("failed load std packages: %w", err))
 	}
 
 	for _, stdPackage := range stdPackages {

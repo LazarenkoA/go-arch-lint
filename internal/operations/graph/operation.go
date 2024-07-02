@@ -9,8 +9,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/fe3dback/go-arch-lint/internal/models"
-	"github.com/fe3dback/go-arch-lint/internal/models/arch"
+	"github.com/LazarenkoA/go-arch-lint/internal/models"
+	"github.com/LazarenkoA/go-arch-lint/internal/models/arch"
 	"oss.terrastruct.com/d2/d2themes/d2themescatalog"
 	"oss.terrastruct.com/d2/lib/textmeasure"
 

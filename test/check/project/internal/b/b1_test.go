@@ -3,7 +3,7 @@ package b
 import (
 	"testing"
 
-	"github.com/fe3dback/go-arch-lint/test/check/project/internal/a"
+	"github.com/LazarenkoA/go-arch-lint/test/check/project/internal/a"
 )
 
 func TestB1(t *testing.T) {

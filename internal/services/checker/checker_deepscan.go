@@ -9,10 +9,10 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/fe3dback/go-arch-lint/internal/models"
-	"github.com/fe3dback/go-arch-lint/internal/models/arch"
-	"github.com/fe3dback/go-arch-lint/internal/models/common"
-	"github.com/fe3dback/go-arch-lint/internal/services/checker/deepscan"
+	"github.com/LazarenkoA/go-arch-lint/internal/models"
+	"github.com/LazarenkoA/go-arch-lint/internal/models/arch"
+	"github.com/LazarenkoA/go-arch-lint/internal/models/common"
+	"github.com/LazarenkoA/go-arch-lint/internal/services/checker/deepscan"
 	"golang.org/x/sync/errgroup"
 )
 

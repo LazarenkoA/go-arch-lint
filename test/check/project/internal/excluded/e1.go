@@ -1,8 +1,8 @@
 package excluded
 
 import (
-	"github.com/fe3dback/go-arch-lint/test/check/project/internal/a"
-	"github.com/fe3dback/go-arch-lint/test/check/project/internal/b"
+	"github.com/LazarenkoA/go-arch-lint/test/check/project/internal/a"
+	"github.com/LazarenkoA/go-arch-lint/test/check/project/internal/b"
 )
 
 func E1() {

@@ -1,4 +1,4 @@
-module github.com/fe3dback/go-arch-lint
+module github.com/LazarenkoA/go-arch-lint
 
 go 1.20
 

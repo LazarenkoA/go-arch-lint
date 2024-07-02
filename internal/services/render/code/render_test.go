@@ -5,7 +5,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/fe3dback/go-arch-lint/internal/models/common"
+	"github.com/LazarenkoA/go-arch-lint/internal/models/common"
 )
 
 func Test_readLines(t *testing.T) {

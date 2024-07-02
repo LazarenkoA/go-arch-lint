@@ -1,6 +1,6 @@
 $ go-arch-lint
 Check all project imports and compare to arch rules defined in yaml file.
-Read full documentation in: https://github.com/fe3dback/go-arch-lint
+Read full documentation in: https://github.com/LazarenkoA/go-arch-lint
 
 Usage:
   go-arch-lint [flags]

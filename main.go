@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/fe3dback/go-arch-lint/internal/app"
+	"github.com/LazarenkoA/go-arch-lint/internal/app"
 )
 
 func main() {

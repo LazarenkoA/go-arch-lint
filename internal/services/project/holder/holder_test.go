@@ -4,9 +4,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/fe3dback/go-arch-lint/internal/models"
-	"github.com/fe3dback/go-arch-lint/internal/models/arch"
-	"github.com/fe3dback/go-arch-lint/internal/models/common"
+	"github.com/LazarenkoA/go-arch-lint/internal/models"
+	"github.com/LazarenkoA/go-arch-lint/internal/models/arch"
+	"github.com/LazarenkoA/go-arch-lint/internal/models/common"
 )
 
 func Test_packageMathPath(t *testing.T) {

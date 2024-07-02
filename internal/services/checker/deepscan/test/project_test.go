@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"testing"
 
-	deepscan2 "github.com/fe3dback/go-arch-lint/internal/services/checker/deepscan"
+	deepscan2 "github.com/LazarenkoA/go-arch-lint/internal/services/checker/deepscan"
 	"github.com/stretchr/testify/assert"
 )
 
